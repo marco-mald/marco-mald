@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate Frontend, and DevOps from Guadalajara 🤠 🇲🇽</h3>
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/markis_mald)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marco-mald&label=Profile%20views&color=0e75b6&style=flat" alt="marco-mald" /> </p>
 
