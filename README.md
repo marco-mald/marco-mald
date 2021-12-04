@@ -3,8 +3,6 @@
 
 [![Spotify](https://spotify-six-beta.vercel.app/api/spotify)](https://open.spotify.com/user/markis_mald)
 
-[<img src="https://spotify-six-beta.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/markis_mald)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marco-mald&label=Profile%20views&color=0e75b6&style=flat" alt="marco-mald" /> </p>
 
 - 🔭 I’m currently working on [FICO](https://www.fico.com/en)
