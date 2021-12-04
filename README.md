@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate Frontend, and DevOps from Guadalajara 🤠 🇲🇽</h3>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/markis_mald)
+[![Spotify](https://spotify-six-beta.vercel.app/api/spotify)](https://open.spotify.com/user/markis_mald)
 
 [<img src="https://spotify-six-beta.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/markis_mald)
 
